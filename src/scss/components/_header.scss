@@ -1,0 +1,18 @@
+.header-principal {
+  background-color: var(--couleur-secondaire);
+
+  h1 {
+  background-color: black;
+  position: fixed;
+  width: 100%;
+  padding-left: 152px;
+  height: 73px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  z-index: 1;
+}
+}
